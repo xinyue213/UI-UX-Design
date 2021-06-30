@@ -17,10 +17,10 @@ Project is created with:
 ## Project 1
 #### Recipe recommendation app
 
-##### Wireframes
+⋅⋅* Wireframes
 ![Wireframes](https://user-images.githubusercontent.com/69234355/123889061-51bbb300-d987-11eb-9f81-2b27cf00510e.png)
 
-#### Prototypes
+⋅⋅* Prototypes
 ![Prototypes](https://user-images.githubusercontent.com/69234355/123889116-6730dd00-d987-11eb-8c6c-f7eed870f1da.png)
 
 
