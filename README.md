@@ -1,4 +1,4 @@
-# UI-UX-Design
+# UI/UX-Design
 
 ## Table of contents
 * [General info](#general-info)
