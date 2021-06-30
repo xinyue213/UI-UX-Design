@@ -6,7 +6,7 @@
 * [Project 1](#project-1)
 
 ## General info
-Those projects are UI design for both andriod and website.
+Those projects are UI/UX design for both android and website based on creating user-friendly interfaces.
 	
 ## Technologies
 Project is created with:
