@@ -7,7 +7,7 @@
 * [E-commerce](#e-commerce)
 
 ## General info
-Those projects are UI/UX design for both android and website based on creating user-friendly interfaces.
+Those projects are UI/UX design for both android and website based on creating user-friendly interfaces.During the programming, I was always thinking about how to improve the user experience and improve the user’s efficiency.
 	
 ## Technologies
 Project is created with:
